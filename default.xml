@@ -378,7 +378,9 @@
   <project path="external/chromium_org" name="android_external_chromium-org" remote="omnirom" revision="android-4.4" />
   <project path="external/clang" name="android_external_clang" remote="omnirom" revision="android-4.4" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="omnirom" revision="android-4.4" />
+  <project path="external/exfat" name="android_external_exfat" remote="omnirom" revision="android-4.4" />
   <project path="external/flac" name="android_external_flac" remote="omnirom" revision="android-4.4" />
+  <project path="external/fuse" name="android_external_fuse" remote="omnirom" revision="android-4.4" />
   <project path="external/icu4c" name="android_external_icu4c" remote="omnirom" revision="android-4.4" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" remote="omnirom" revision="android-4.4" />
   <project path="external/llvm" name="android_external_llvm" remote="omnirom" revision="android-4.4" />
